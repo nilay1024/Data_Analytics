@@ -1,6 +1,0 @@
-# Data_Analytics
-
-Goutham KS PES1201700295
-Rohit Menon PES1201700707
-Sai Tarun PES1201700494
-
